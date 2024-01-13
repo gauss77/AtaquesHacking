@@ -1,5 +1,5 @@
 #Descrifrador de contraseñas FTP
-
+#Version 1.0
 #ftp_cracker.py
 
 from ftplib import FTP

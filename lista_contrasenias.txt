@@ -1,0 +1,11 @@
+password123
+securepass
+admin
+wifikey
+mysecurewifi
+passphrase
+letmein
+guestpassword
+network123
+12345678
+@lumno%$&_89
